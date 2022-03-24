@@ -1,8 +1,5 @@
-# OpenCrate
-Crate
+# CraterMaker
 
 Crate 1 is a Nim Module that has a focus on many things, such as Game development & Program Development. To install, go to your Terminal and use nimble to install. 
 
-'nimble install cratermaker'
-
-The Github Repo CraterMaker is version 1.0 of the Crate module.
+`nimble install opencrate`
